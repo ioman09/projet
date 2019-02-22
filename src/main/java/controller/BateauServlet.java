@@ -28,7 +28,7 @@ public class BateauServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		Bateau bat = new Bateau("queens mary");
+		Bateau bat = new Bateau("queens maaaaaaaaaaaaaaaaaaaaaaary");
 		response.getWriter()
 		.append("Sqsdqsdqsd")
 		.append(bat.toString());
