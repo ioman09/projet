@@ -8,7 +8,7 @@ public class Bateau {
 	
 	@Override
 	public String toString() {
-		return ",pokqeprkazlpqf^lqsp^ùm" + nom;
+		return ",pokqeprkazlpqf^lqsp^ùm" + nom + "gdgfdfgdg";
 	}
 
 	public Bateau (String nom) {
